@@ -1,3 +1,4 @@
 {
+  "project.name":"test",
   "phabricator.uri" : "http://local.phabricator.com/"
 }
